@@ -156,4 +156,4 @@ while True:
      snake.check_for_boundaries(
          game.game_over, game.screen_width, game.screen_height)
      game.show_score()
-     game.refresh_screen()
+     game.refresh_screen() 
